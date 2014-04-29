@@ -188,6 +188,9 @@ License:             GNU Free License.
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="7F9F7F" bgColor="272822" fontName="" fontStyle="3" fontSize="" />
             <WordsStyle name="STRINGEOL" styleID="12" fgColor="AEC2D2" bgColor="272822" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
+        <LexerType name="nfo" desc="Msdos" ext="">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="FFFFFF" bgColor="272822" fontStyle="0" fontSize="" />
+        </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
             <WordsStyle name="Default" styleID="0" fgColor="AEC2D2" bgColor="272822" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Search Header" styleID="1" fgColor="1D1D1D" bgColor="E9A354" fontName="" fontStyle="1" fontSize="" />
